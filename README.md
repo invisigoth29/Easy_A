@@ -1,4 +1,4 @@
-# 🛠️ M365 Admin Toolkit
+# 🛠️ Easy_A
 
 A collection of tools, scripts, and automation workflows designed to make a Microsoft 365 administrator’s life easier — from day-to-day management to advanced reporting and security monitoring.
 

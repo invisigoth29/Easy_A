@@ -20,12 +20,10 @@ Managing Microsoft 365 environments involves user provisioning, security auditin
 ## ✅ Key Features
 
 - 🔐 Secure app-only Graph API access
-- 📋 User & license reporting
 - 🧠 Risk-based sign-in monitoring
-- 📬 Email & Teams alerting
 - 🧰 Reusable PowerShell modules & Graph queries
 - ☁️ Automation-ready (Azure Automation, Cloud Shell, GitHub Actions)
-- 🔁 Scheduling support with ARM templates or cron equivalents
+
 
 ---
 

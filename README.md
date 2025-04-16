@@ -41,12 +41,16 @@ Managing Microsoft 365 environments involves user provisioning, security auditin
 
 ## 📦 Example Use Cases
 
-- Generate license usage & user role reports
-- Alert on sign-ins from high-risk countries
-- Monitor for inactive accounts or stale guests
-- Auto-remediate risky accounts via Graph API
-- Post daily audit summaries to Teams
-- Schedule admin tasks every 15/30/60 minutes
+Eye_of_Sauron👁️ – The unblinking eye can’t find Frodo but it’s great for IP and domain lookup. 
+
+Gandalf🧙  – Need to stop a Balrog or phish email? Creates a transport rule & block the phishy sender or domain. 
+
+RiskLevel⚠️ – Check for Entra risky sign-ins without a browser 
+
+Dyson💨 – The content search that never loses suction. After you’ve contained the email threat with Gandalf, get Dyson clean out those emails.
+
+Revoken_a_token🎫 – User account compromised? Revoke that token! Don’t wait for password replication! Revoke the MFA token and remediate the threat in seconds!
+
 
 ---
 

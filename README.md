@@ -58,8 +58,8 @@ Revoken_a_token🎫 – User account compromised? Revoke that token! Don’t wai
 
 1. **Clone the Repo**
    ```bash
-   git clone https://github.com/yourorg/m365-admin-toolkit.git
-   cd m365-admin-toolkit
+   git clone https://github.com/invisigoth29/Easy_A.git
+   cd Easy_A
    ```
 
 2. **Register a Graph App**
@@ -69,13 +69,9 @@ Revoken_a_token🎫 – User account compromised? Revoke that token! Don’t wai
 
 3. **Run a Script**
    ```powershell
-   ./scripts/get-user-license-report.ps1
+   ./scripts/Gandalf.ps1
    ```
 
-4. **Deploy Automation (Optional)**
-   ```powershell
-   ./automation/deploy-schedule.ps1
-   ```
 
 ---
 
